@@ -1,3 +1,8 @@
+// wnpm i pluginname
+// wnpm i pluginname --save
+// wnpm install pluginname --save --link
+// wnpm uninstall pluginname
+
 var shell = require('shelljs');
 var apps = require('/Users/WebbingLabs/projects/scripts/apps.js');
 
