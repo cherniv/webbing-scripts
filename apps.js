@@ -3,6 +3,44 @@ module.exports = [
 		'folder': 'webbing-library',
 	},
 	{
+		'folder': 'pinellas',
+		'code-push': {
+			'ios': {
+				'id': 'PinellasIos',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			},
+			'android': {
+				'id': 'PinellasAndroid',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			}
+		}
+	},
+	{
+		'folder': 'rochester',
+		'code-push': {
+			'ios': {
+				'id': 'RochesterIos',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			},
+			'android': {
+				'id': 'RochesterAndroid',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			}
+		}
+	},
+	{
 		'folder': 'WebbingMobileReact',
 		'code-push': {
 			'ios': {
