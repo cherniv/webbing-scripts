@@ -22,6 +22,25 @@ module.exports = [
 		}
 	},
 	{
+		'folder': 'Playgrounds',
+		'code-push': {
+			'ios': {
+				'id': 'PlaygroundsIos',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			},
+			'android': {
+				'id': 'PlaygroundsAndroid',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			}
+		}
+	},
+	{
 		'folder': 'rochester',
 		'code-push': {
 			'ios': {
@@ -90,6 +109,63 @@ module.exports = [
 			},
 			'android': {
 				'id': 'IomvAndroid',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			}
+		}
+	},
+	{
+		'folder': 'gelt',
+		'code-push': {
+			'ios': {
+				'id': 'GeltIos',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			},
+			'android': {
+				'id': 'GeltAndroid',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			}
+		}
+	},
+	{
+		'folder': 'onward',
+		'code-push': {
+			'ios': {
+				'id': 'OnwardIos',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			},
+			'android': {
+				'id': 'OnwardAndroid',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			}
+		}
+	},
+	{
+		'folder': '52frames',
+		'code-push': {
+			'ios': {
+				'id': 'FramesIos',
+				'keys': {
+					'production': '',
+					'staging': '',
+				}
+			},
+			'android': {
+				'id': 'FramesAndroid',
 				'keys': {
 					'production': '',
 					'staging': '',
